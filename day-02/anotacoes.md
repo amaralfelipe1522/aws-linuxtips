@@ -16,3 +16,8 @@ Na prática, se faz necessário apenas um nome e um e-mail válido para criar ca
 
 ## Camada de Identidade (IAM)
 Cada conta possui uma credêncial de acesso própria, porém, é permitido configurar contas de origens e destinos para cada uma. Por exemplo, todos os usuários podem acessar a conta de DEV, e a partir dela, acessar a conta de HOMOLOGAÇÃO sem precisar entrar com outras credênciais. É possível também criar regras e políticas para que sejam limitadas as ações desse usuário caso tenha acessado por outra sub-conta.
+
+## My Security Credentials
+- Acessar a opção *Autenticação multifator (MFA)*;
+- Escolher o método de autenticação.
+
