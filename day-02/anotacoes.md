@@ -21,3 +21,19 @@ Cada conta possui uma credêncial de acesso própria, porém, é permitido confi
 - Acessar a opção *Autenticação multifator (MFA)*;
 - Escolher o método de autenticação.
 
+## Support Center
+> Uma solicitação de suporte para a AWS é chamado de Case.
+
+São 3 tipos de casos:
+- Account and billing support;
+- Service limit increase;
+- Technical support (não liberado para o plano FREE).
+
+## Policies
+São 2 tipos de políticas:
+- IAM: Aplicadas diretamente ao usuário;
+- Service Control Policy: Aplicadas nas contas e nas organizações.
+
+Exemplo de Service Control Policy:
+
+![Service Control Policy](../assets/service-control-policy.png)
