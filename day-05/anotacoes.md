@@ -12,6 +12,18 @@ Na conta de origem é necessário informar:
 - Cor tem como objetivo complementar o mesmo controle de uso do Display Name.
 
 ## Indentity Providers
+Usado quando você quer vincular sua base de usuários já existentes em algum outro provider como:
+- SAML;
+- OpenID Connect.
 
-## Settings & Reports
+## Accounts Settings
 
+Settings para definir para todos os usuários do IAM:
+- Como será a senha;
+- quanto tempo de expiração;
+- Se pode usar senhas antigas;
+- Definir regiões;
+- Etc.
+
+## Accounts Reports
+Exibe relatório de todos os usuários do IAM, seus status e seus usos. Útil para criar automações de envio de alertas para os usuários.
