@@ -15,4 +15,6 @@ IAM é um produto vinculado a todas as contas por default. É um recurso respons
     - Programmatic access: Usuário de serviço para Infra-as-code e automações;
     - AWS Management Console access: Usuário para humanos;
     - É possível incluir uma política diretamente ao usuário além das liberações vinculadas ao grupo.
-- Roles: 
+- Roles: Agrupamento de políticas. Pode ser aplicada a um serviço ou conta de usuário;
+- Policies: Possui versionamento automatico das ultimas 5 versoes.
+
